@@ -44,3 +44,4 @@ Analyzes live stock data and market trends.
 - Summarize stock performance
 
 ---
+https://stockanalysisagentcrewai.streamlit.app/
