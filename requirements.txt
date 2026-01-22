@@ -4,3 +4,5 @@ python-dotenv
 yfinance
 langchain-tavily
 langchain-groq
+litellm
+langchain-community
